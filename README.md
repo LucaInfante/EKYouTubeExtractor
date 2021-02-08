@@ -1,3 +1,5 @@
+# Forked for personal interventions and not "worthy" of pull request or original git was abandoned.
+
 # EKYouTubeExtractor
 
 [![CI Status](http://img.shields.io/travis/elviskuocy@gmail.com/EKYouTubeExtractor.svg?style=flat)](https://travis-ci.org/elviskuocy@gmail.com/EKYouTubeExtractor)
